@@ -1,4 +1,4 @@
-#loop to 10
+#loop to 10 with correcting wrong entry
 a = input()
 print (a)
 count=1
