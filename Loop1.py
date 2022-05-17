@@ -16,4 +16,5 @@ count=1
 while count <= int(a):
  print(count)
  count+=1
+Print("")
 print("this is the end of the program")
