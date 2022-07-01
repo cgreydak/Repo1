@@ -1,0 +1,4 @@
+total 8
+-rw-rw-r-- 1 cgreydak cgreydak 338 Jul  1 10:20 Loop1.py
+-rw-rw-r-- 1 cgreydak cgreydak 201 Jul  1 10:20 Loop2.py
+-rw-rw-r-- 1 cgreydak cgreydak   0 Jul  1 12:28 ls.txt
